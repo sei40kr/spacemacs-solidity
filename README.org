@@ -1,4 +1,9 @@
-* Solidity layer
+#+TITLE: Solidity layer
+
+* Table of Contents                                       :TOC_4_gh:noexport:
+- [[#description][Description]]
+- [[#install][Install]]
+- [[#key-bindings][Key Bindings]]
 
 * Description
 
