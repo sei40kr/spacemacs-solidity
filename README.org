@@ -6,12 +6,12 @@ This layer adds support for the Solidity language using [[https://github.com/eth
 
 * Install
 
-To use this configuration layer, add it to your `~/.spacemacs`. You will need to add =spacemacs-solidity= to the existing =dotspacemacs-configuration-layers= list in this file.
+To use this configuration layer, add it to your =~/.spacemacs=. You will need to add =spacemacs-solidity= to the existing =dotspacemacs-configuration-layers= list in this file.
 
 * Key Bindings
 
 |-------------+--------------------------------------|
 | Key Binding | Description                          |
 |-------------+--------------------------------------|
-| =SPC m g=   | Gas estimate of function under point |
+| ~SPC m g~   | Gas estimate of function under point |
 |-------------+--------------------------------------|
