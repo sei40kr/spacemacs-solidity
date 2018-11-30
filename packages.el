@@ -9,11 +9,11 @@
 ;;
 ;;; License: MIT
 
-(setq spacemacs-solidity-packages '(solidity-mode))
+(setq solidity-packages '(solidity-mode))
 
-(setq spacemacs-solidity-excluded-packages '())
+(setq solidity-excluded-packages '())
 
-(defun spacemacs-solidity/init-solidity-mode ()
+(defun solidity/init-solidity-mode ()
   (use-package solidity-mode
     :defer t
     :config
