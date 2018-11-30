@@ -7,16 +7,17 @@
 
 * Description
 
-This layer adds support for the Solidity language using [[https://github.com/ethereum/emacs-solidity][emacs-solidity]].
+  This layer adds support for the Solidity language using [[https://github.com/ethereum/emacs-solidity][emacs-solidity]].
 
 * Install
 
-To use this configuration layer, add it to your =~/.spacemacs=. You will need to add =spacemacs-solidity= to the existing =dotspacemacs-configuration-layers= list in this file.
+  To use this configuration layer, first, clone this repository to =~/.emacs.d/private/layers/solidity=,
+  and add =solidity= to the existing =dotspacemacs-configuration-layers= list in this file.
 
 * Key Bindings
 
-|-------------+--------------------------------------|
-| Key Binding | Description                          |
-|-------------+--------------------------------------|
-| ~SPC m g~   | Gas estimate of function under point |
-|-------------+--------------------------------------|
+  |-------------+--------------------------------------|
+  | Key Binding | Description                          |
+  |-------------+--------------------------------------|
+  | ~SPC m g~   | Gas estimate of function under point |
+  |-------------+--------------------------------------|
